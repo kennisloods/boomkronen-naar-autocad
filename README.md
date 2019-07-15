@@ -1,4 +1,4 @@
-# boomkronen-naar-autocad
+# Boomkronen naar AutoCAD
 Vertaalt boomkronen in GIS-formaat naar AutoCAD DWG-formaat.
 
 ## toelichting
